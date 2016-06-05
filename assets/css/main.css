@@ -179,7 +179,7 @@ strong, bold, b{
    Comment this block out if you want your paragraphs marked by space rather
    than indent. */
 
-
+/* I don't want book style paragraphing.
 .post-content > p + p,
 .post-content .thumb + p,
 .post-content aside + p{
@@ -205,7 +205,7 @@ strong, bold, b{
   margin-top: 3.3rem;
   margin-bottom: 1.1rem;
 }
-
+*/
 
 /* END OF TRADITIONAL PARAGRAPH STYLES*/
 
