@@ -1,5 +1,7 @@
 ![Ghost Compatability](http://img.shields.io/badge/Compatible%20with%20Ghost-v0.8.x-brightgreen.svg)
 
+# This is a fork of Mnml
+
 # Mnml — a Typographically Tasteful [Ghost](http://github.com/tryghost/ghost/) Blog Theme
 
 Mnml is a beautiful, responsive, content-focused theme with great typography. The use of a type-scale, responsive typography, and carefully set line-length provide an optimal reading experience. Mnml also features post thumbnails on the homepage, an elegant print stylesheet, code syntax highlighting, and more.
