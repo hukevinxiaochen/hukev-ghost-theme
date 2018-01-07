@@ -1,4 +1,5 @@
 {
-  "name": "Mnml child",
-  "version": "3.7.9"
+  "name": "hukev theme",
+  "version": "0.1.0",
+  "description": "Derived from the `mnml` theme by curiositry (https://github.com/curiositry/mnml-ghost-theme)"
 }

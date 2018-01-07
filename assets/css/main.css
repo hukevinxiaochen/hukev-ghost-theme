@@ -151,7 +151,7 @@ h4{
 }
 
 a {
-  color: #dd4814;
+  color: #336dc3;
   transition: color ease 0.3s;
 }
 a:hover, a:active, a.active{
@@ -237,7 +237,7 @@ input, textarea{
 }
 
 input:focus, textarea:focus{
-  border:2px solid #dd4814;
+  border:2px solid #336dc3;
 }
 
 li {
@@ -625,14 +625,14 @@ aside.note:before{
 
 .btn, button, input[type="button"]{
   color:white;
-  background-color: #dd4814;
-  background: -moz-linear-gradient(top, #dd4814 0%, #c23202 100%);
-  background: -webkit-gradient(left top, left bottom, color-stop(0%, #dd4814), color-stop(100%, #c23202));
-  background: -webkit-linear-gradient(top, #dd4814 0%, #c23202 100%);
-  background: -o-linear-gradient(top, #dd4814 0%, #c23202 100%);
-  background: -ms-linear-gradient(top, #dd4814 0%, #c23202 100%);
-  background: linear-gradient(to bottom, #dd4814 0%, #c23202 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dd4814', endColorstr='#c23202', GradientType=0 );
+  background-color: #336dc3;
+  background: -moz-linear-gradient(top, #336dc3 0%, #c23202 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, #336dc3), color-stop(100%, #c23202));
+  background: -webkit-linear-gradient(top, #336dc3 0%, #c23202 100%);
+  background: -o-linear-gradient(top, #336dc3 0%, #c23202 100%);
+  background: -ms-linear-gradient(top, #336dc3 0%, #c23202 100%);
+  background: linear-gradient(to bottom, #336dc3 0%, #c23202 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#336dc3', endColorstr='#c23202', GradientType=0 );
   padding: .55rem 1.1rem;
   text-indent: 0;
   text-decoration: none;
@@ -650,8 +650,8 @@ aside.note:before{
 .btn:active, .btn:hover,  .btn.active, button:active, button:hover, input[type=button]:active, input[type="button"]:hover{
   color:white;
   background: orange;
-  box-shadow: 0 0 10px -3px #dd4814 inset;
-  border:1px solid #dd4814;
+  box-shadow: 0 0 10px -3px #336dc3 inset;
+  border:1px solid #336dc3;
 }
 
 .btn--full-width,
@@ -1304,7 +1304,7 @@ aside.note:before{
 
 .older-posts:hover,
 .newer-posts:hover {
-  color: #dd4814;
+  color: #336dc3;
   border-color: orange;
 }
 
@@ -1418,7 +1418,7 @@ aside.note:before{
 }
 
 .subscribe:hover:before {
-  color: #dd4814;
+  color: #336dc3;
 }
 
 /* CSS tooltip saying "Subscribe!" - initially hidden */
